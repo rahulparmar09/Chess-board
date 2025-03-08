@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main {
+    width: 730px;
+    border: 5px solid black;
+    height: 730px;
+    margin-left: 65vh;
+    margin-top: 5vh;
+}
+.black {
+    float: left;
+    height: 90px;
+    width: 90px;
+    background-color: green;
+    display: inline-block;
+    font-size: 60px;
+    text-align: center;
+    
+}
+.white {
+    height: 90px;
+    width: 90px;
+    display: inline-block;
+    background-color: #fff;
+    float: left;
+    font-size: 60px;
+    text-align: center;
+
+}
